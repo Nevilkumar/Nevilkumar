@@ -6,7 +6,7 @@
   <code><a href="https://stackoverflow.com/users/19859294/nevil-dalsania" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/_nevil_dalsania_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h4>
-<h3>
+<h2>
   <br>
   🎓 I am a final year student at DAIICT, Gandhinagar.
   <br>
@@ -17,7 +17,7 @@
   💻 I have worked on various tech stacks and technologies like MERN Stack, Angular, Django, Flask.
   <br>
   📫 How to reach me: <a href="mailto: nevildalsaniya@gmail.com">nevildalsaniya@gmail.com</a>
-</h3>
+</h2>
 
 <h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
 <br>
