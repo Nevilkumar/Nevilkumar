@@ -1,12 +1,12 @@
 <h1 align="center">Hello There! 👋, I am Nevil Dalsania</h1>
-<h3 align="center">
+<h4 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/nevil-dalsania-66975b213/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/nevil-dalsania-66975b214/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/NEVIL_268" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Codeforces</a></code>
   <code><a href="https://stackoverflow.com/users/19859294/nevil-dalsania" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/_nevil_dalsania_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h4>
-<h2>
+<h3>
   <br>
   🎓 I am a final year student at DAIICT, Gandhinagar.
   <br>
@@ -17,7 +17,7 @@
   💻 I have worked on various tech stacks and technologies like MERN Stack, Angular, Django, Flask.
   <br>
   📫 How to reach me: <a href="mailto: nevildalsaniya@gmail.com">nevildalsaniya@gmail.com</a>
-</h2>
+</h3>
 
 <h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
 <br>
