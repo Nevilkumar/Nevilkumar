@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! 👋, I am Nevil Dalsania</h1>
-<h4 align="center">
+<h3 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/nevil-dalsania-66975b214/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/nevil-dalsania-66975b213/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/NEVIL_268" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Codeforces</a></code>
   <code><a href="https://stackoverflow.com/users/19859294/nevil-dalsania" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/_nevil_dalsania_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
