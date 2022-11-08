@@ -1,11 +1,11 @@
 <h1 align="center">Hello There! 👋, I am Nevil Dalsania</h1>
-<h5 align="center">
+<h4 align="center">
   <code>
     <a href="https://www.linkedin.com/in/nevil-dalsania-66975b214/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/NEVIL_268" title="Codeforces Profile"><img width="22" src="images/codeforces.png"> Codeforces</a></code>
   <code><a href="https://stackoverflow.com/users/19859294/nevil-dalsania" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/_nevil_dalsania_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+</h4>
 <h3>
   <br>
   🎓 I am a final year student at DAIICT, Gandhinagar.
@@ -28,16 +28,21 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-      <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Nevilkumar&theme=react&border=61dafb&hide_border=true" alt="Nevilkumar" />
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Nevilkumar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevilkumar&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
+<div>
+    <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=Nevilkumar&theme=react&border=61dafb&hide_border=true" alt="Nevilkumar" />
+</div>
+<br>
+<br>
+
+<div>
+    <img width=450 src="https://github-readme-stats.vercel.app/api?username=Nevilkumar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</div>
+<br>
+<br>
+
+<div>
+    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevilkumar&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
   <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Nevilkumar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
