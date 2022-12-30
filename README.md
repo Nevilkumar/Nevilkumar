@@ -27,8 +27,6 @@
 <!-- <br/> -->
 
 <h2 align="center">🔥 About Me 🔥</h2>
-<br/>
-
 
 ### 📈 Technology Analyst Intern '22 [@MorganStanley](https://www.morganstanley.com/).
 
@@ -40,7 +38,6 @@
 
 ### 📫 How to reach me: <a href="mailto: nevildalsaniya@gmail.com">nevildalsaniya@gmail.com</a>
 
-<br/>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br/>
 
@@ -84,7 +81,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<br/>
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 <br/>
 
