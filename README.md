@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 5px;"/>
 </a>  
 </p>
-<img src="https://github.com/Nevilkumar/Nevilkumar/blob/master/images/screen-open.gif" width="100%"  />
+<img src="./images/screen-open.gif" width="100%"  />
 
 <br/>
 <h2 align="center">🔥 About Me 🔥</h2>
