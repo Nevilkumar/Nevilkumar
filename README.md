@@ -30,6 +30,8 @@
 
 ### 📈 Technology Analyst Intern '22 [@MorganStanley](https://www.morganstanley.com/).
 
+### 📈 SDE Intern '23 [@Micro SaaS Capital](https://microsaascapital.com/).
+
 ### 🎓 I am a final year student at DAIICT, Gandhinagar.
 
 ### 💖 I love working with Javascript frameworks.
