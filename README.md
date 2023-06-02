@@ -30,7 +30,7 @@
 
 ### 📈 Technology Analyst Intern '22 [@MorganStanley](https://www.morganstanley.com/).
 
-### 📈 SDE Intern '23 [@Micro SaaS Capital](https://microsaascapital.com/).
+### 💼 SDE Intern '23 [@Micro SaaS Capital](https://microsaascapital.com/).
 
 ### 🎓 I am a final year student at DAIICT, Gandhinagar.
 
@@ -38,6 +38,7 @@
 
 ### 💻 I have worked on various tech stacks and technologies like MERN Stack, Angular, Django, Flask.
 
+### ✨ In my internships, I gained valuable experience working with JavaScript frameworks, honing my skills in both frontend and backend technologies.
 ### 📫 How to reach me: <a href="mailto: nevildalsaniya@gmail.com">nevildalsaniya@gmail.com</a>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
